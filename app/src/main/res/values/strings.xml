@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FontsApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_text_value">Enter your text here</string>
+</resources>
